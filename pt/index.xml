@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🌸🌸🌸</title>
-    <link>https://neopost.neocities.org/pt/</link>
+    <link>https://hellennr.github.io/portfolio/pt/</link>
     <description>Recent content on 🌸🌸🌸</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <atom:link href="https://neopost.neocities.org/pt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hellennr.github.io/portfolio/pt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Habilidades</title>
-      <link>https://neopost.neocities.org/pt/1habilidades/</link>
+      <link>https://hellennr.github.io/portfolio/pt/1habilidades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://neopost.neocities.org/pt/1habilidades/</guid>
+      <guid>https://hellennr.github.io/portfolio/pt/1habilidades/</guid>
       <description>&lt;h4 id=&#34;-metodologias-ágeis-&#34;&gt;&amp;lt; Metodologias Ágeis &amp;gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;skill-tags&#34;&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Scrum&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Kanban&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Waterfall&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;-linguagens-de-programação-&#34;&gt;&amp;lt; Linguagens de Programação &amp;gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;skill-tags&#34;&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Javascript&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;C/C&amp;#43;&amp;#43;&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Python&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Java&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;-ferramentas-&#34;&gt;&amp;lt; Ferramentas &amp;gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;skill-tags&#34;&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;HTML&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;CSS&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;-ánalise-e-projeto-de-sistemas-&#34;&gt;&amp;lt; Ánalise e Projeto de Sistemas &amp;gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;skill-tags&#34;&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Levantamento de requisitos&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Modelagem UML (casos de uso, classes, sequência, estado)&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;-banco-de-dados-&#34;&gt;&amp;lt; Banco de Dados &amp;gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;skill-tags&#34;&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;SQL (Structured Query Language)&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Modelagem EER&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;-paradigmas-&#34;&gt;&amp;lt; Paradigmas &amp;gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;skill-tags&#34;&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Programação Orientada a Objetos (POO)&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Experiência</title>
-      <link>https://neopost.neocities.org/pt/2experiencia/</link>
+      <link>https://hellennr.github.io/portfolio/pt/2experiencia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://neopost.neocities.org/pt/2experiencia/</guid>
+      <guid>https://hellennr.github.io/portfolio/pt/2experiencia/</guid>
       <description>&lt;h3 id=&#34;projeto-hyper-tensão--jogo-educacional&#34;&gt;Projeto Hyper Tensão – Jogo Educacional&lt;/h3&gt;&#xA;&lt;p&gt;Desenvolvimento de jogo educativo para conscientização sobre hipertensão&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Uso de lógica de programação e conceitos de POO&lt;/li&gt;&#xA;&lt;li&gt;Biblioteca Pygame&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;campo-minado--jogo-em-c&#34;&gt;Campo Minado – Jogo em C&lt;/h3&gt;&#xA;&lt;p&gt;Implementação do jogo Campo Minado usando C, com lógica para posicionar minas, navegar no tabuleiro e detectar quando o jogador perde ou ganha.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Utilização de matrizes, loops, condicionais e entrada de dados pelo usuário.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;batalha-naval--jogo-em-c-com-rede-local&#34;&gt;Batalha Naval – Jogo em C com Rede Local&lt;/h3&gt;&#xA;&lt;p&gt;Implementação do jogo Batalha Naval para dois jogadores via rede local (TCP/IP).&lt;/p&gt;</description>
     </item>
   </channel>

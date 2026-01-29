@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://neopost.neocities.org/en/post1/</loc>
+    <loc>https://hellennr.github.io/portfolio/en/post1/</loc>
   </url><url>
-    <loc>https://neopost.neocities.org/en/experience/</loc>
+    <loc>https://hellennr.github.io/portfolio/en/experience/</loc>
   </url><url>
-    <loc>https://neopost.neocities.org/en/</loc>
+    <loc>https://hellennr.github.io/portfolio/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://neopost.neocities.org/pt/"
+                href="https://hellennr.github.io/portfolio/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neopost.neocities.org/en/"
+                href="https://hellennr.github.io/portfolio/en/"
                 />
   </url><url>
-    <loc>https://neopost.neocities.org/en/categories/</loc>
+    <loc>https://hellennr.github.io/portfolio/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://neopost.neocities.org/pt/categories/"
+                href="https://hellennr.github.io/portfolio/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neopost.neocities.org/en/categories/"
+                href="https://hellennr.github.io/portfolio/en/categories/"
                 />
   </url><url>
-    <loc>https://neopost.neocities.org/en/posts/</loc>
+    <loc>https://hellennr.github.io/portfolio/en/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://neopost.neocities.org/pt/posts/"
+                href="https://hellennr.github.io/portfolio/pt/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neopost.neocities.org/en/posts/"
+                href="https://hellennr.github.io/portfolio/en/posts/"
                 />
   </url><url>
-    <loc>https://neopost.neocities.org/en/tags/</loc>
+    <loc>https://hellennr.github.io/portfolio/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://neopost.neocities.org/pt/tags/"
+                href="https://hellennr.github.io/portfolio/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neopost.neocities.org/en/tags/"
+                href="https://hellennr.github.io/portfolio/en/tags/"
                 />
   </url>
 </urlset>
