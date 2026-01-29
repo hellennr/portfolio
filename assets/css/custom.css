@@ -1,0 +1,274 @@
+/* assets/css/custom.css */
+
+nav.links ul {
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
+
+
+nav.links ul li a {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+  font-size: 20px;
+  color: #333;
+  background: transparent;
+  padding: 0;
+  margin: 0 5px;
+  border: none;
+}
+
+nav.links ul li a:hover {
+  color:#1DA1F2; 
+}
+
+/* Sidebar social icons */
+aside#sidebar nav.links ul li a i {
+    color: #1DA1F2;       /* cor que você quiser */
+    font-size: 24px;       /* tamanho uniforme */
+    width: 32px;           /* largura do "botão" */
+    height: 32px;          /* altura do "botão" */
+    text-align: center;    /* centraliza o ícone */
+    line-height: 32px;     /* centraliza verticalmente */
+    transition: color 0.3s; /* efeito suave ao passar o mouse */
+}
+
+/* Efeito hover (opcional) */
+aside#sidebar nav.links ul li a:hover i {
+    color: #0d8ddb;        /* cor ao passar o mouse */
+}
+
+
+
+.img-right img {
+    max-width: 100%;
+    height: auto;        /* mantém a proporção correta */
+    object-fit: cover;   /* melhor comportamento de “corte” */
+    display: block;      /* elimina espaços */
+}
+
+
+
+article h2 > a {
+    color: var(--post-header-color);
+    text-decoration: none;
+    font-size: 1.5em;
+    display: inline-block;
+
+    filter:
+        drop-shadow(2px 0 0 var(--outline-color))
+        drop-shadow(0 2px 0 var(--outline-color))
+        drop-shadow(-2px 0 0 var(--outline-color))
+        drop-shadow(0 -2px 0 var(--outline-color))
+        drop-shadow(0 1px 1px var(--outline-color2))
+        drop-shadow(1px 0 1px var(--outline-color2));
+}
+
+article h2 {
+    margin: 0 0 .6em 0;
+}
+
+
+article {
+    background-color: var(--bg-color2);
+}
+
+article h2 > a {
+    font-size: 1.2em; /* menor que antes */
+    color: var(--post-header-color);
+    text-decoration: none;
+
+    filter:
+        drop-shadow(2px 0 0 var(--outline-color))
+        drop-shadow(0 2px 0 var(--outline-color))
+        drop-shadow(-2px 0 0 var(--outline-color))
+        drop-shadow(0 -2px 0 var(--outline-color))
+        drop-shadow(0 1px 1px var(--outline-color2))
+        drop-shadow(1px 0 1px var(--outline-color2));
+}
+
+#sidebar .tags {
+    display: none;
+}
+.dropbox-btn,
+.table-of-contents {
+    display: none !important;
+}
+
+/* Container igual para TODOS os ícones */
+aside#sidebar nav.links ul li a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+}
+
+/* Font Awesome */
+aside#sidebar nav.links ul li a i {
+    font-size: 24px;
+    color: #1DA1F2;
+}
+
+
+
+aside#sidebar nav.links ul li a:hover img {
+    filter: invert(36%) sepia(98%) saturate(1800%) hue-rotate(185deg);
+}
+
+
+.language-switch {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.lang-btn {
+  padding: 0.3rem 0.9rem;
+  border: 2px solid #d6a6e8;
+  border-radius: 999px; /* bem arredondado */
+  background-color: #fff;
+  color: #b56ad9;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.lang-btn:hover {
+  background-color: #f3e6fa;
+  transform: translateY(-1px);
+}
+
+.lang-btn.active {
+  background-color: #e9c8f4;
+  color: #7a2fa3;
+}
+
+
+
+
+/* ===== Language switch (HTML real do site) ===== */
+
+nav.languages.links ul {
+  padding: 0;
+  margin: 100;
+  list-style: none;
+}
+
+nav.languages.links li {
+  display: inline-block;
+}
+
+nav.languages.links a {
+  display: inline-block;
+  padding: 0.35rem 3rem;
+  margin: 0 0.2rem;
+  background-color: var(--bg-color2);
+  border: 2px solid var(--outline-color);
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--special-text-color);
+  text-decoration: none;
+  box-shadow: var(--post-shadow-color) 2px 2px;
+  transition: all 0.2s ease;
+}
+
+nav.languages.links a:hover {
+  background-color: var(--select-color);
+  color: var(--accent-color);
+  transform: translateY(-1px);
+}
+
+nav.languages.links a {
+  display: inline-flex;        /* transforma o link em flex */
+  align-items: center;         /* centraliza vertical */
+  justify-content: center;     /* centraliza horizontal */
+
+  padding: 0.4rem 1rem;
+  min-width: 110px;            /* garante largura consistente */
+  text-align: center;
+
+  background-color: var(--bg-color2);
+  border: 2px solid var(--outline-color);
+  border-radius: 999px;
+
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* ===== Skill tags (posts) ===== */
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 8px 0 16px;
+}
+
+.skill-tag {
+  background-color: var(--bg-color);
+  color: var(--special-text-color);
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border: 1px solid var(--border-color);
+  line-height: 1.4;
+}
+
+.skill-tag:hover {
+  filter: brightness(0.95);
+}
+
+.contact-me {
+  margin: 2rem 0 0.7rem; /* topo | laterais | embaixo */
+  text-align: center;
+}
+
+
+.contact-me a {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  background: var(--bg-color);
+  color: var(--accent-color);
+  border: 1px solid var(--border-color);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.contact-me a:hover {
+  opacity: 0.85;
+}
+
+.spotify-box {
+  margin-top: 0.2rem;
+  padding: 0.4rem;
+  background: var(--bg2-color);
+  border-radius: 12px;
+}
+
+
+/* altura dos botoes sociais */
+nav.links {
+  margin-top: 0.2rem;
+  margin-bottom: 0.3rem;
+}
+
+
+
+/*---------------------------------*/
+/* altura do emoji de titulo dos posts*/
+h2:has(.title-emoji) {
+  display: flex;
+  align-items: center;
+  gap: 0.3em;
+}
+

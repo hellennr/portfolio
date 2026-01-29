@@ -1,0 +1,87 @@
+title: "🌸🌸🌸"
+baseURL: 'https://neopost.neocities.org'
+languageCode: 'pt-br'
+titleCaseStyle: 'none' # comment this line for forcing capitalized titles on tags
+theme: "neopost"
+
+
+defaultContentLanguage: pt
+defaultContentLanguageInSubdir: true
+
+languages:
+  pt:
+    languageCode: pt-br
+    contentDir: content/pt
+    languageName: 🇧🇷
+    weight: 1
+    params:
+      sidebar:
+        tags:
+          enable: true
+          limit: 2
+          more-text: "mais tags..."
+
+      read-more:
+        length-limit: 120
+        text:
+          more: "ler mais"
+          less: "ler menos"
+
+  en:
+    languageCode: en-us
+    contentDir: content/en
+    languageName: 🇬🇧
+    weight: 2
+    params:
+      sidebar:
+        tags:
+          enable: true
+          limit: 2
+          more-text: "more tags..."
+
+      read-more:
+        length-limit: 120
+        text:
+          more: "read more"
+          less: "read less"
+
+
+permalinks:
+  posts: "/:contentbasename/"
+
+params:
+  theme: "light-purple"
+  favicon: "/favicon.ico"
+  posts-per-page: 3
+  toc-auto-numbering: false
+
+  sidebar:
+    social:
+      - name: Twitter
+        icon: fab fa-twitter
+        url: https://twitter.com/seu_usuario
+
+      - name: Email
+        icon: fas fa-envelope
+        url: mailto:seuemail@email.com
+
+      - name: GitHub
+        icon: fab fa-github
+        url: https://github.com/seu_usuario
+
+      - name: Instagram
+        icon: fab fa-instagram
+        url: https://instagram.com/seu_usuario
+
+      - name: LinkedIn
+        icon: fab fa-linkedin-in
+        url: https://linkedin.com/in/seu_usuario
+
+
+  markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+  
