@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>posts on 🌸🌸🌸</title>
+    <link>https://neopost.neocities.org/en/posts/</link>
+    <description>Recent content in posts on 🌸🌸🌸</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://neopost.neocities.org/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skills</title>
+      <link>https://neopost.neocities.org/en/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://neopost.neocities.org/en/post1/</guid>
+      <description>&lt;h4 id=&#34;-agile-methodologies-&#34;&gt;&amp;lt; Agile Methodologies &amp;gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;skill-tags&#34;&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Scrum&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Kanban&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Waterfall&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;-programming-languages-&#34;&gt;&amp;lt; Programming Languages &amp;gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;skill-tags&#34;&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Javascript&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;C/C&amp;#43;&amp;#43;&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Python&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Java&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;-tools-&#34;&gt;&amp;lt; Tools &amp;gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;skill-tags&#34;&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;HTML&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;CSS&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;-systems-analysis-and-design-&#34;&gt;&amp;lt; Systems Analysis and Design &amp;gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;skill-tags&#34;&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Requirements gathering&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;UML modeling (use cases, class, sequence, state diagrams)&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;-databases-&#34;&gt;&amp;lt; Databases &amp;gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;skill-tags&#34;&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;SQL (Structured Query Language)&lt;/span&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;EER Modeling&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h4 id=&#34;-paradigms-&#34;&gt;&amp;lt; Paradigms &amp;gt;&lt;/h4&gt;&#xA;&lt;div class=&#34;skill-tags&#34;&gt;&#xA;  &#xA;    &lt;span class=&#34;skill-tag&#34;&gt;Object-Oriented Programming (OOP)&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>https://neopost.neocities.org/en/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://neopost.neocities.org/en/experience/</guid>
+      <description>&lt;h3 id=&#34;hyper-tensão-project--educational-game&#34;&gt;Hyper Tensão Project – Educational Game&lt;/h3&gt;&#xA;&lt;p&gt;Development of an educational game to raise awareness about hypertension.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use of programming logic and OOP concepts&lt;/li&gt;&#xA;&lt;li&gt;Pygame library&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;minesweeper--c-game&#34;&gt;Minesweeper – C Game&lt;/h3&gt;&#xA;&lt;p&gt;Implementation of the Minesweeper game using C, with logic to place mines, navigate the board, and detect when the player wins or loses.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use of arrays, loops, conditionals, and user input&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;battleship--c-game-with-local-network&#34;&gt;Battleship – C Game with Local Network&lt;/h3&gt;&#xA;&lt;p&gt;Implementation of the Battleship game for two players over a local network (TCP/IP).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
